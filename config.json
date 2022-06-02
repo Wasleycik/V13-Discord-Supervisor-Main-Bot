@@ -1,0 +1,157 @@
+{
+    "bot": {
+        "botyapimci": "598974473374400512",
+        "owner": "598974473374400512",
+        "prefix": ".",
+        "token": "OTM2NTQ5NDE5NzQ5MzYzNzEy.Gm2WVR.Zh_fFEtEEuciwhmHN2Ml2gJ3onsPk2nao37Yig",
+        "BotStatus": "Wasley ❤️ Hesperos",
+        "BotFooter": "Hesperos ❤️ Wasley",
+        "guildVanityURL":"discord.gg/hesperos",
+        "cooldown": 3000
+    },
+    "penals": {
+        "warn": {
+            "staff": "964187785063964702",
+            "log": "955103660172525648"
+        },
+        "mute": {
+            "staff": "964187785063964702",
+            "roles": "955018572042739723",
+            "log": "955103344932827137",
+            "limit": 5
+        },
+        "voicemute": {
+            "staff": "964187785063964702",
+            "roles": "883712175657615360",
+            "log": "955103344932827137",
+            "limit": 5
+        },
+        "jail": {
+            "staff": "935946922588516392",
+            "roles": "880371769792405506",
+            "log": "955103694683267102",
+            "limit": 5
+        },
+        "reklam": {
+            "staff": "935946922588516392",
+            "roles": "975801286949748797",
+            "log": "980916419829063730",
+            "limit": 5
+        },
+        "ban": {
+            "staff": "880371763198955550",
+            "log": "955103628186775692",
+            "limit": 3
+        },
+        "transport": {
+            "staff": "964187785063964702"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "yetki": {
+            "yetkilialim": "880371746744717342",
+            "botcommand": "955110039595647006",
+            "partnerstaff": "938418122921246780",
+            "yetki7": "957419823804067850",
+            "yetki8": "957420616200364122",
+            "enaltytrol": "880371782568267836",
+            "yetkilirol2": "880371781955907645",
+            "yetkilirol3": "880371772602585089",
+            "yetkilirol4": "880371780022308884",
+            "yetkilirol5": "880371774066421790",
+            "yetkilirol6": "880371774624243762",
+            "yetkilirol7": "880371771872788481",
+            "yetkilirol8": "880371744400089111",
+            "yetkilirol9": "880371743372484630"
+    },
+    "channels": {
+        "chat": "935958554546942042",
+        "voicechannel": "892421405281513532",
+        "botkomut": "963101074523304006",
+        "welcomechannel": "933735081254748232",
+        "rules": "880370182592286730"
+    },
+    "roles": {
+        "vip": "880371785328115742",
+        "streamer": "965136510317887498",
+        "sponsor": "880560157921263648",
+        "müzisyen": "880371778210390016",
+        "terapist": "938420285332414485",
+        "soruncozucu": "938420286661988412",
+        "boster": "880233147080511529",
+        "team": "880371767439396934"
+    },
+     "logs": {
+        "taglog": "971393102071877712",
+        "rollog": "971392918482993222",
+        "isimlog": "977970623202607154",
+        "kayıtlog": "977886541764513842",
+        "komutlog": "977979120321429554",
+        "messagelog": "926815953017262111",
+        "şikayetlog": "971407364118941758",
+        "seslog": "893163285451526174",
+        "botdmlog":"972730914608128050"
+    },
+    "üye": {
+        "birhafta": "981243261438025838",
+        "biray": "981243258921439312",
+        "ucay": "981243261702258738",
+        "altiay": "981243263472267305",
+        "dokuzay": "981243263770058813",
+         "biryil": "981243899077087272"
+    },
+    "registration": {
+        "unregistered": "880371769435893790",
+        "man": ["938418129485312040", "939625730868903986","973240812672516177"],
+        "woman": ["938420290059382864", "935947306161807470","973240812672516177"],
+        "staff": "935946062898790400",
+        "GuilDTag": "✦",
+        "TagSymbol": "✦",
+        "autonickname": "• İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "880371769435893790",
+        "susoeciosnickname": "• Şüpheli",
+        "susoecioschannel": "909732821680136212",
+        "oneman": "938418129485312040",
+        "onewoman": "938420290059382864",
+        "minage": 15, 
+        "purchase": false    
+    },
+    "basvuru": {
+        "basvuruyapchannel": "970946691719114753",
+        "ilkytrolleri": ["880371782568267836", "935946062898790400","957419823804067850","973240808415330344"],
+        "endüsükytrol": "880371782568267836",
+        "successMessage": "**Hey Tebrikler Yetkili Oldun!**\n\n Sunucumuza Gidip Yetkililerin Uyması Gereken Görevleri Yaparsan Seviniriz\n Müsait İsen Seste Afk Bırakabilirsin \n chat durgun ise birilerini etiketleyim chatı canlandıra bilirsin \n Yetki Yükseltimleri Sunucudaki **invite,Ses/chat aktifliği,Saygı,Partner Kasma** vb Şeylere Bakılarak Yapılmaktadır \n Yetkimi Yapmazsam Yetkim Alınacak Vb Diye Korkmana Gerek Yok Yetkini Almıyoruz En Alt A İndiriyoruz Eğer Hiç Aktif Olmaz İsen Alıyoruz",
+        "deleteMessage": "Üzgünüm Başvurun Reddedildi!",
+        "staff": "966046379682185247",
+        "log": "970947705167835166",
+        "title": "Yetkili Başvuru Formu",
+        "color": "BLUE",
+        "description": "Sunucumuzda Yetkili Olmak İçin Birtakım Sorulara Cevap Vermen Gerekiyor! \n Aşağidaki **Başvur** Butonuna Basarak Başvuru İşlemi Başlatabilirsiniz \n\n ***DİKKAT*** : **Başvuru Sisteminin Boş Yere Kullanımı vb Şeylerde Sunucudan Ban Yeme Cezasına Kadar Ceza İşlemi Uygulanabilir**",
+        "sorular": ["Kayıt Yapma İşlemini Biliyormusun","Günde Kaç Saat Aktifsiniz", "Sunucumuzda Kaç Saat Aktif Olabilirsin","Partnerlik Yapmayı Biliyormusun","Daha Önce Farklı Bir Sunucuda Yetkili Oldunmu","Daha Önce Yetkili Olduğunuz Sunucuda Kaç Kişi Vardı","Belirtmek İstediğiniz Yetenekleriniz","Sunucu Kurallarımızı Okudunmu","Sunucu İçerisinde Üyelere Ve Yetkililere Nasıl Davranman Gerektiğini Biliyormusun","Eklemek İstediğiniz Bir Şey Var Mı? Varsa Ne?"],
+        "timeout": 2000
+    },
+    "Guild": {
+        "GuildID": "880063235691249675",
+        "GuilDName": "HESPEROS",
+        "GuildOwnerRole": ["918886114549436437","880560165584273488","880560173373071450","963402324628357130"]
+    },
+
+     "buttons": {
+            "çekiliş": "908773946860638269",
+            "etkinlik": "908774049365262397",
+            "partner":"880560160660156436"
+        },
+
+    "emojis": {
+        "tada": "🎉",
+        "yes": "<a:green:916784507456217119>",
+        "no": "<a:red:916784508831940618>"
+
+    }
+} 
