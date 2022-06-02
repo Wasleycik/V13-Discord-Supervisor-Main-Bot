@@ -30,9 +30,14 @@
 
 ![image](https://user-images.githubusercontent.com/104096743/171727385-2342a4fa-7074-4bc3-9534-37686f5393f0.png)
 ![image](https://user-images.githubusercontent.com/104096743/171727486-9f6b2f75-d087-4f77-aed9-da93654702ee.png)
+
+Komut Log Sistemi
 ![image](https://user-images.githubusercontent.com/104096743/171727628-ebb23672-d9ed-4af5-b877-cccece3f3b1d.png)
+
+Kayıt Log Sistemi
 ![image](https://user-images.githubusercontent.com/104096743/171727709-a9d3e564-7b61-408e-bdc1-bd7e3fe954fd.png)
 
+Dosya İçeriği
 ![image](https://user-images.githubusercontent.com/104096743/171727861-108f9509-39ed-4db5-b18e-f45870620571.png)
 
 Birisi İsim değiştirrise .isim/visim/booster vb log a atar isim log
