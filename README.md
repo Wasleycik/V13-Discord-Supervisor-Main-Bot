@@ -33,5 +33,10 @@
 ![image](https://user-images.githubusercontent.com/104096743/171727628-ebb23672-d9ed-4af5-b877-cccece3f3b1d.png)
 ![image](https://user-images.githubusercontent.com/104096743/171727709-a9d3e564-7b61-408e-bdc1-bd7e3fe954fd.png)
 
+![image](https://user-images.githubusercontent.com/104096743/171727861-108f9509-39ed-4db5-b18e-f45870620571.png)
+
+Birisi İsim değiştirrise .isim/visim/booster vb log a atar isim log
+![image](https://user-images.githubusercontent.com/104096743/171728007-0ccc4ef1-4ce8-4eb7-a079-603cf3044ff4.png)
+
 
 
