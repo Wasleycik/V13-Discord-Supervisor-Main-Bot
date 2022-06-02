@@ -28,7 +28,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 ![image](https://user-images.githubusercontent.com/104096743/171727385-2342a4fa-7074-4bc3-9534-37686f5393f0.png)
+
+Şikayet sistemi
+
 ![image](https://user-images.githubusercontent.com/104096743/171727486-9f6b2f75-d087-4f77-aed9-da93654702ee.png)
 
 Komut Log Sistemi
